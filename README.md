@@ -1,7 +1,7 @@
 ## Hello Arturo
 
 ### App Description
-Says hello
+Chsnges the text color
 
 ### App Walk-though
 
